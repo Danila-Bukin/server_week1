@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "bee_joo",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
